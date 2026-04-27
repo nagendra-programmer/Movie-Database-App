@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.logo {
+  font-size: 20px;
+}
+
+a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+input {
+  padding: 5px;
+}

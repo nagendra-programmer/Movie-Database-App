@@ -1,0 +1,9 @@
+.cast {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cast-card {
+  width: 150px;
+  margin: 10px;
+}
